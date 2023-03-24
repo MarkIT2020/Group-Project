@@ -2,4 +2,4 @@
 # In file "2. Numeric analysis", I created a heatmap for the correlation between all variables. Then, I focuses more on the numeric aspect of the data.
 # In file "3. Categorical analysis"， I looked at the relationships between the variable cardio and the rest of the categorical data. 
 # In file "4. Logistic regression neural network", I tried to predict the logistic regression model and neural network model to predict variable cardio, and the accuracy for both model are around 72%.
-#Feel free to change the files
+# Feel free to change all files
