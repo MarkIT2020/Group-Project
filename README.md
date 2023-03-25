@@ -9,4 +9,4 @@ In file "4. Logistic regression neural network", I tried to predict the logistic
 
 Ignore file "5. Decision tree". It's for testing
 
-"6. Clustering and anomaly" I'm not too sure if this file will be useful, but I though I might just write it
+In file "6. Clustering and anomaly", I'm not too sure if this file will be useful, but I though I might just write it
